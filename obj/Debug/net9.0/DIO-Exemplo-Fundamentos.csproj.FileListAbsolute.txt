@@ -1,0 +1,14 @@
+C:\WorkSpaces\DIO-Exemplo-Fundamentos\bin\Debug\net9.0\DIO-Exemplo-Fundamentos.exe
+C:\WorkSpaces\DIO-Exemplo-Fundamentos\bin\Debug\net9.0\DIO-Exemplo-Fundamentos.deps.json
+C:\WorkSpaces\DIO-Exemplo-Fundamentos\bin\Debug\net9.0\DIO-Exemplo-Fundamentos.runtimeconfig.json
+C:\WorkSpaces\DIO-Exemplo-Fundamentos\bin\Debug\net9.0\DIO-Exemplo-Fundamentos.dll
+C:\WorkSpaces\DIO-Exemplo-Fundamentos\bin\Debug\net9.0\DIO-Exemplo-Fundamentos.pdb
+C:\WorkSpaces\DIO-Exemplo-Fundamentos\obj\Debug\net9.0\DIO-Exemplo-Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpaces\DIO-Exemplo-Fundamentos\obj\Debug\net9.0\DIO-Exemplo-Fundamentos.AssemblyInfoInputs.cache
+C:\WorkSpaces\DIO-Exemplo-Fundamentos\obj\Debug\net9.0\DIO-Exemplo-Fundamentos.AssemblyInfo.cs
+C:\WorkSpaces\DIO-Exemplo-Fundamentos\obj\Debug\net9.0\DIO-Exemplo-Fundamentos.csproj.CoreCompileInputs.cache
+C:\WorkSpaces\DIO-Exemplo-Fundamentos\obj\Debug\net9.0\DIO-Exemplo-Fundamentos.dll
+C:\WorkSpaces\DIO-Exemplo-Fundamentos\obj\Debug\net9.0\refint\DIO-Exemplo-Fundamentos.dll
+C:\WorkSpaces\DIO-Exemplo-Fundamentos\obj\Debug\net9.0\DIO-Exemplo-Fundamentos.pdb
+C:\WorkSpaces\DIO-Exemplo-Fundamentos\obj\Debug\net9.0\DIO-Exemplo-Fundamentos.genruntimeconfig.cache
+C:\WorkSpaces\DIO-Exemplo-Fundamentos\obj\Debug\net9.0\ref\DIO-Exemplo-Fundamentos.dll
