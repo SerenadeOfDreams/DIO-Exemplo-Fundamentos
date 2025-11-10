@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using DIO_Exemplo_Fundamentos.Models;
+
+Pessoa p = new("sérgio", 40);
+
+p.Apresentar();

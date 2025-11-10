@@ -12,3 +12,4 @@ C:\WorkSpaces\DIO-Exemplo-Fundamentos\obj\Debug\net9.0\refint\DIO-Exemplo-Fundam
 C:\WorkSpaces\DIO-Exemplo-Fundamentos\obj\Debug\net9.0\DIO-Exemplo-Fundamentos.pdb
 C:\WorkSpaces\DIO-Exemplo-Fundamentos\obj\Debug\net9.0\DIO-Exemplo-Fundamentos.genruntimeconfig.cache
 C:\WorkSpaces\DIO-Exemplo-Fundamentos\obj\Debug\net9.0\ref\DIO-Exemplo-Fundamentos.dll
+C:\WorkSpaces\DIO-Exemplo-Fundamentos\obj\Debug\net9.0\DIO-Exemplo-Fundamentos.sourcelink.json
