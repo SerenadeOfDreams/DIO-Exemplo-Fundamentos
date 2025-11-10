@@ -1,5 +1,14 @@
 ﻿using DIO_Exemplo_Fundamentos.Models;
 
-Pessoa p = new("sérgio", 40);
+Calculadora calc = new();
 
-p.Apresentar();
+calc.Somar(100, 2);
+calc.Subtrair(100, 2);
+calc.Multiplicar(100, 2);
+calc.Dividir(100, 2);
+
+
+
+// Pessoa p = new("sérgio", 40);
+
+// p.Apresentar();
