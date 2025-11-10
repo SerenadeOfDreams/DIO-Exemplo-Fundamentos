@@ -21,4 +21,10 @@ public class Calculadora
     {
         Console.WriteLine($"{x} / {y} = {x / y}");
     }
+
+    public void Potencia(int x, int y)
+    {
+        var pow = Math.Pow(x, y);
+        Console.WriteLine($"{x}^{y} = {pow}");
+    }
 }
