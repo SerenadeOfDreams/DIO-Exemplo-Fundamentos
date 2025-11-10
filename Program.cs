@@ -7,9 +7,11 @@ Calculadora calc = new();
 // calc.Multiplicar(100, 2);
 // calc.Dividir(100, 2);
 // calc.Potencia(100, 2);
-calc.Seno(30);
-calc.Coseno(30);
-calc.Tangente(30);
+// calc.Seno(30);
+// calc.Coseno(30);
+// calc.Tangente(30);
+
+calc.RaizQuadrada(9);
 
 
 

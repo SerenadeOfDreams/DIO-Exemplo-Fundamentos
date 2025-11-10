@@ -51,4 +51,11 @@ public class Calculadora
 
         Console.WriteLine($"tangente de {angulo}° = {Math.Round(tan, 4)}");
     }
+
+    public void RaizQuadrada(double x)
+    {
+        var raiz = Math.Sqrt(x);
+
+        Console.WriteLine($"Raíz quadrada de {x} = {raiz}");
+    }
 }
