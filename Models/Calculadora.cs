@@ -27,4 +27,28 @@ public class Calculadora
         var pow = Math.Pow(x, y);
         Console.WriteLine($"{x}^{y} = {pow}");
     }
+
+    public void Seno(double angulo)
+    {
+        double radiano = angulo * Math.PI / 180;
+        var seno = Math.Sin(radiano);
+
+        Console.WriteLine($"seno de {angulo}° = {Math.Round(seno, 4)}");
+    }
+
+    public void Coseno(double angulo)
+    {
+        double radiano = angulo * Math.PI / 180;
+        var cos = Math.Cos(radiano);
+
+        Console.WriteLine($"coseno de {angulo}° = {Math.Round(cos, 4)}");
+    }
+
+    public void Tangente(double angulo)
+    {
+        double radiano = angulo * Math.PI / 180;
+        var tan = Math.Tan(radiano);
+
+        Console.WriteLine($"tangente de {angulo}° = {Math.Round(tan, 4)}");
+    }
 }
