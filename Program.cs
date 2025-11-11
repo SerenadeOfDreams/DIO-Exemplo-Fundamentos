@@ -11,7 +11,11 @@ Calculadora calc = new();
 // calc.Coseno(30);
 // calc.Tangente(30);
 
-calc.RaizQuadrada(9);
+// calc.RaizQuadrada(9);
+
+calc.TabuadaFor(10);
+calc.TabuadaWhile(10);
+calc.SomaDoWhile();
 
 
 

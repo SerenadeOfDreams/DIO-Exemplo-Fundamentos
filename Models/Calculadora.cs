@@ -58,4 +58,40 @@ public class Calculadora
 
         Console.WriteLine($"Raíz quadrada de {x} = {raiz}");
     }
+
+    public void TabuadaFor(int x)
+    {
+        for (int i = 0; i <= 10; i++)
+        {
+            Console.WriteLine($"{x} x {i} = {x * i}");
+        }
+    }
+
+    public void TabuadaWhile(int x)
+    {
+        int i = 1;
+
+        while (i <= 10)
+        {
+            Console.WriteLine($"{x} x {i} = {x * i}");
+            i++;
+        }
+    }
+
+    public void SomaDoWhile()
+    {
+        int soma = 0, numero = 0;
+
+
+        do
+        {
+            Console.WriteLine("Digite um número (0 para parar.)");
+            numero = Convert.ToInt32(Console.ReadLine());
+
+            soma += numero;
+        }
+        while (numero != 0);
+
+        Console.WriteLine($"Total da soma dos números digitados: {soma}");
+    }
 }
