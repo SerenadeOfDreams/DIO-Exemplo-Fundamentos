@@ -1,8 +1,9 @@
 ﻿using DIO_Exemplo_Fundamentos.Models;
 
 string opcao;
+bool exibirMenu = true;
 
-while (true)
+while (exibirMenu)
 {
     Console.Clear();
     Console.WriteLine("Digite sua opção:");
@@ -26,7 +27,7 @@ while (true)
             break;
         case "4":
             Console.WriteLine("Até breve");
-            Environment.Exit(0);
+            exibirMenu = false;
             break;
         default:
             Console.WriteLine("Opção inválida");
@@ -34,6 +35,8 @@ while (true)
 
     }
 }
+
+Console.WriteLine("O programa se encerrou");
 
 
 

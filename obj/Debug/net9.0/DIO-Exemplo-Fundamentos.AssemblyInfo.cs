@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DIO-Exemplo-Fundamentos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afb85867d7c0edc3ebcadde43da236529697898e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bc4e472adbec9e14962733cd6f3e327615660fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("DIO-Exemplo-Fundamentos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DIO-Exemplo-Fundamentos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
